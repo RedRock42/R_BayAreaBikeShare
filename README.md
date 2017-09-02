@@ -32,6 +32,6 @@ This project uses the following software and R libraries:
 dplyr;
 ggplot2;
 ggthemes;
-plyr;
+plyr
         
 
