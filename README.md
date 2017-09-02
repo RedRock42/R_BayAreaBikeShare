@@ -29,9 +29,9 @@ You are provided hourly rental data spanning two years. For this competition, th
 ### Software and Libraries
 
 This project uses the following software and R libraries:
-dplyr
-ggplot2
-ggthemes
-plyr
+dplyr;
+ggplot2;
+ggthemes;
+plyr;
         
 
