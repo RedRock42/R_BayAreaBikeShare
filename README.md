@@ -1,6 +1,4 @@
-# R_Linear Regression Project
-
-## Kaggle_Bay Area Bike Share Analysis
+# R_Linear Regression Project-- Kaggle_Bay Area Bike Share Analysis
 
 This folder contains files for the Bay Area Bike Share Analysis.
 
